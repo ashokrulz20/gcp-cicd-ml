@@ -45,9 +45,9 @@ options:
 
 # Substitutions for customizable values
 substitutions:
-  _DOCKER_IMAGE: 'velguhan6/placementhero-rank:v1'
+  _DOCKER_IMAGE: 'velguhan6/placement-rank:v1'
   _SERVICE_NAME: 'placement-app'
   _REGION: 'us-central1'
-  _PORT: '8080'
+  _PORT: '9696'
   _MEMORY: '512Mi'
   _CPU: '1' 
